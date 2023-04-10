@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    margin: 50px;
+}
+.pages{
+    display: flex;
+    list-style: none;
+}
+nav li{
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+nav img{
+    height: 80px;
+    width: 80px;
+}
+
